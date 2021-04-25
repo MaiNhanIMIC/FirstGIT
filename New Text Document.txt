@@ -1,2 +1,5 @@
-Konnichiwa
+hello world!
+xin chao
+test
+ent
 Xin chao Guys!
