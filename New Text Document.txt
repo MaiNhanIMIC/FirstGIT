@@ -2,3 +2,6 @@ Konnichiwa
 alo alo
 hello world!
 xin chao
+test
+ent
+Khoa Hoc
