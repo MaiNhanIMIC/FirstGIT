@@ -1,2 +1,5 @@
-Konnichiwa
-Khoa Hoc 
+hello world!
+xin chao
+test
+ent
+Khoa Hoc
